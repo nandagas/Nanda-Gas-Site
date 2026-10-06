@@ -343,8 +343,8 @@ function PickupOffer() {
           <div className="pickup-perk">
             <span className="perk-icon">💸</span>
             <div className="perk-text">
-              <strong>Desconto especial no botijão</strong>
-              <small>Preço ainda mais baixo para quem retira pessoalmente</small>
+              <strong>Retirada na loja: R$ 99,99</strong>
+              <small>Entrega em domicílio: R$ 120,00 — retirando você economiza R$ 20!</small>
             </div>
           </div>
           <div className="pickup-perk">
@@ -516,8 +516,8 @@ function LocationSection() {
             <div>
               <span className="location-detail-label">Horário de Funcionamento</span>
               <p className="location-detail-value">
-                <strong>Seg – Sáb:&nbsp;</strong> 8h às 20h<br />
-                <strong>Domingo:&nbsp;</strong> 8h às 14h
+                <strong>Seg – Sáb:&nbsp;</strong> 8h às 18h<br />
+                <strong>Dom e Feriados:&nbsp;</strong> 8h às 13h
               </p>
             </div>
           </div>
@@ -607,8 +607,8 @@ function Footer() {
 
           <div className="footer-col">
             <h4>Horários</h4>
-            <p>Seg – Sáb: 8h às 20h</p>
-            <p>Domingo: 8h às 14h</p>
+            <p>Seg – Sáb: 8h às 18h</p>
+            <p>Dom e Feriados: 8h às 13h</p>
           </div>
 
         </div>
