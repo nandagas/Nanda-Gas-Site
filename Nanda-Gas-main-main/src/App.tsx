@@ -6,7 +6,7 @@ import gasbrasLogo from './supergasbras.png';
    ══════════════════════════════════════════════════════════ */
 const CONFIG = {
   // Número com código do país + DDD + número (só dígitos)
-  whatsapp: '5521983271191',
+  whatsapp: '5521990179331',
 
   // Link da página de avaliação no Google Meu Negócio
   // Para obter: acesse seu perfil no Google Meu Negócio → Obter mais avaliações
@@ -529,7 +529,7 @@ function LocationSection() {
             <div>
               <span className="location-detail-label">WhatsApp</span>
               <p className="location-detail-value">
-                <strong>(21)98327-1191</strong>
+                <strong>(21) 99017-9331</strong>
                 Atendimento rápido e eficiente
               </p>
             </div>
@@ -591,7 +591,7 @@ function Footer() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              📱 (21)98327-1191
+              📱 (21) 99017-9331
             </a>
             <a href={CONFIG.instagram} target="_blank" rel="noopener noreferrer">
               📸 @nandagasltda
